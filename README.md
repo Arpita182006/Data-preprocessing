@@ -1,4 +1,5 @@
 # Data-preprocessing
+Data Preprocessing is the process of preparing raw data by cleaning, transforming, and organizing it for machine learning models.
 
 🔧 Data Preprocessing & Encoding in Machine Learning
 📌 Overview
